@@ -1,0 +1,5 @@
+Credentials cache: API:5224
+        Principal: angonzal@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 23 12:26:49 2020  Nov 23 22:26:40 2020  krbtgt/42MADRID.COM@42MADRID.COM
